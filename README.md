@@ -1,2 +1,4 @@
 # lab3-practice
-r
+Practica de laboratorio numero 3.
+
+
