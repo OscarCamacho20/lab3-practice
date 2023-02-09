@@ -8,6 +8,7 @@ cout << "lab3" << '\n';
 cout << "testing branch and" << endl;
 cout << "branch 2" << endl;
 cout << "merge" << endl;
+cout << "mergeeeeee" << endl;
 
 
 
